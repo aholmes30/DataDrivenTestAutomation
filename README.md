@@ -36,6 +36,8 @@ external libraries.
 |-testNG.xml                     #  TestNG configuration files for the test structures and groupings 
 ```
 
+![screenshot](/images/datadrivenscreenshot.png)
+
 ## Pre-requisites
 * Download and install Chrome or Firefox browser  ( viewing report )
 * Download and install JDK v1.8 + 
